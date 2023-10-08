@@ -1,4 +1,5 @@
 CRUD
+[![ra-lifecycle](https://github.com/bas27/ra-lifecycle-crud-6.2/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ra-lifecycle-crud-6.2/actions/workflows/web.yml)
 ===
 
 Вам необходимо реализовать базовый CRUD без обновления при работе с HTTP.
